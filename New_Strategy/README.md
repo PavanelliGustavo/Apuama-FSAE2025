@@ -1,6 +1,6 @@
 There is no point in having a good car if you don't have a good strategy, so in this section, I will discuss what we should consider in order to achieve the best possible ranking.
 
-The competition consists of static and dynamic events. You can only participate in dynamic events after obtaining permission in static events.
+The competition consists of static and dynamic events, with the dynamic events only taking place after the team has obtained permission in the static events, which may require some revisions. Given this, if approval is delayed, the team may not have time to complete all the dynamic tests, creating the need to prioritize stages that add more value to the final result.
 
 **General Static:**
 
@@ -21,3 +21,5 @@ The competition consists of static and dynamic events. You can only participate 
 | Efficiency   | 100    |
 | Endurance    | 275    |
 | **Total**    | **675**|
+
+The most obvious strategy is to 
