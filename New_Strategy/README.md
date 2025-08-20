@@ -22,4 +22,4 @@ The competition consists of static and dynamic events, with the dynamic events o
 | Endurance    | 275    |
 | **Total**    | **675**|
 
-Knowing the value of each event, it is kind obvious to realize fist stages with most value. But I have notice something looking at the Formula SAE 2025 Result
+Knowing the value of each event, it is kind obvious to realize fist stages with most value. But I have notice something looking at the [Formula SAE 2025 Result]
