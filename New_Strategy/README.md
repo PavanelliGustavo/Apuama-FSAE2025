@@ -1,6 +1,7 @@
-There is no reason to have a good car if you don't have a good strategy, so in this part I am going to discuss what we have to considerat to get the best classification as possible.
+There is no point in having a good car if you don't have a good strategy, so in this section, I will discuss what we should consider in order to achieve the best possible ranking.
 
-The competition is composed for static and dynamic events. The only can go to the dynamic events after getting the permission in the static events.
+The competition consists of static and dynamic events. You can only participate in dynamic events after obtaining permission in static events.
+
 **General Static:**
 
 | Category    | Points |
