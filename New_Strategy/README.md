@@ -26,12 +26,9 @@ Knowing the score for each event and that we need to accumulate as many points a
 
 But I noticed something looking at the results of Formula SAE 2025: despite having a higher maximum score, several teams do not even come close to this result, which leads us to reflect: could it be easier to achieve a certain score in a race, even if it has a shorter interval than others? In the next table I calculetade de mean pontuation in each test, considering only the teams that earned points, and, as we can see, it is right: accelaration have a mean higher than autocross! (I allready haven't say it yet, but acceleration it's faster to complete tha autocross)
 
-| Category     | Mean |
-|--------------|------|
-| Acceleration | 49.7 |
-| Skid Pad     | 33.5 |
-| Autocross    | 45.5 |
-| Efficiency   | 41.5 |
-| Endurance    | 45.3 |
+| Category     | Acceleration | Skid Pad | Autocross | Endurance | Efficiency |
+|-----------------------------------------------------------------------------|
+| Mean         | 49.7         | 33.5     |      45.5 | 45.3      |       41.5 |
+
 
 
