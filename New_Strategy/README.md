@@ -24,6 +24,14 @@ The competition consists of static and dynamic events, with the dynamic events o
 
 Knowing the score for each event and that we need to accumulate as many points as possible, the simplest line of reasoning, and also the one currently adopted, would be to participate first in the stages with the highest added value. Of course, other factors affect this decision, such as the waiting time in line to take the test, but what the history of the last four years shows is that there is a preference for tests with higher scores.
 
-But I noticed something looking at the results of Formula SAE 2025: despite having a higher maximum score, several teams do not even come close to this result, which leads us to reflect: could it be easier to achieve a certain score in a race, even if it has a shorter interval than others?
+But I noticed something looking at the results of Formula SAE 2025: despite having a higher maximum score, several teams do not even come close to this result, which leads us to reflect: could it be easier to achieve a certain score in a race, even if it has a shorter interval than others? In the next table I calculetade de mean pontuation in each test, considering only the teams that earned points, and, as we can see, it is right: accelaration have a mean higher than autocross! (I allready haven't say it yet, but acceleration it's faster to complete tha autocross)
+
+| Category     | Mean |
+|--------------|------|
+| Acceleration | 49.7 |
+| Skid Pad     | 33.5 |
+| Autocross    | 45.5 |
+| Efficiency   | 41.5 |
+| Endurance    | 45.3 |
 
 
