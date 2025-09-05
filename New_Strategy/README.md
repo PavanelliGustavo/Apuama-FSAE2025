@@ -37,8 +37,9 @@ The competition consists of static and dynamic events, with the dynamic events o
   This is due to the way the score is calculated:
 - Tmax - 150% of Tmin
 - When Tyour < Tmax, Acceleration Score =
-  
-  <img width="255" height="44" alt="CodeCogsEqn - Editado" src="https://github.com/user-attachments/assets/d9150324-268b-4e03-bcc2-2bda2e371c27" />
+
+  <img width="255" height="44" alt="CodeCogsEqn(1) - Editado" src="https://github.com/user-attachments/assets/8b5299d1-5842-419e-b042-aff2ade341e6" />
+
 
 
 - When Tyour > Tmax , Acceleration Score = 4.5
