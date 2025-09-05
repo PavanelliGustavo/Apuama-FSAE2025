@@ -47,6 +47,6 @@ Autocross have a similant way to calculate the score:
 - Tmax - 145% of Tmin
 - When Tyour < Tmax, the team Score =
 
-<img width="263" height="44" alt="CodeCogsEqn(2) - Editado" src="https://github.com/user-attachments/assets/6a466613-b31c-4751-9c3a-bce7e3c67348" />
+  <img width="263" height="44" alt="CodeCogsEqn(2) - Editado" src="https://github.com/user-attachments/assets/6a466613-b31c-4751-9c3a-bce7e3c67348" />
 
 - When Tyour > Tmax , Autocross Score = 6.5
