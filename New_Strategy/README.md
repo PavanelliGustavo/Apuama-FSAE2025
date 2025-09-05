@@ -34,6 +34,11 @@ The competition consists of static and dynamic events, with the dynamic events o
 | Endurance   | 45.3 |
 | Efficiency  | 41.5 |
 
-  This is due to the way the score is calculated.
-  <img width="255" height="44" alt="CodeCogsEqn" src="https://github.com/user-attachments/assets/1fa2fa36-f114-4d92-8e50-a37a2e6567c5" />
+  This is due to the way the score is calculated:
+- Tmax - 150% of Tmin
+- When Tyour < Tmax:
+Acceleration Score = <img width="255" height="44" alt="CodeCogsEqn" src="https://github.com/user-attachments/assets/1fa2fa36-f114-4d92-8e50-a37a2e6567c5"/>
+
+- When Tyour > Tmax , Acceleration Score = 4.5
+   
 
