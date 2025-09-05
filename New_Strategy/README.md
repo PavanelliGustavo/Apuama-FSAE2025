@@ -22,9 +22,9 @@ The competition consists of static and dynamic events, with the dynamic events o
 | Endurance    | 275    |
 | **Total**    | **675**|
 
-Knowing the score for each event and that we need to accumulate as many points as possible, the simplest line of reasoning, and also the one currently adopted, would be to participate first in the stages with the highest added value. Of course, other factors affect this decision, such as the waiting time in line to take the test, but what the history of the last four years shows is that there is a preference for tests with higher scores.
+  Knowing the score for each event and that we need to accumulate as many points as possible, the simplest line of reasoning, and also the one currently adopted, would be to participate first in the stages with the highest added value. Of course, other factors affect this decision, such as the waiting time in line to take the test, but what the history of the last four years shows is that there is a preference for tests with higher scores.
 
-But I noticed something looking at the results of Formula SAE 2025: despite having a higher maximum score, several teams do not even come close to this result, which leads us to reflect: could it be easier to achieve a certain score in a race, even if it has a shorter interval than others? In the next table I calculetade de mean pontuation in each test, considering only the teams that earned points, and, as we can see, it is right: accelaration have a mean higher than autocross! (I allready haven't say it yet, but acceleration it's faster to complete tha autocross)
+  But I noticed something looking at the results of Formula SAE 2025: despite having a higher maximum score, several teams do not even come close to this result, which leads us to reflect: could it be easier to achieve a certain score in a race, even if it has a shorter interval than others? In the next table I calculated de mean pontuation in each test, considering only the teams that earned points, and, as we can see, it is right: accelaration have a mean higher than autocross! (I allready haven't say it yet, but acceleration it's faster to complete tha autocross)
 
 | Category    | Mean |
 |-------------|------|
@@ -33,3 +33,6 @@ But I noticed something looking at the results of Formula SAE 2025: despite havi
 | Autocross   | 45.5 |
 | Endurance   | 45.3 |
 | Efficiency  | 41.5 |
+
+  This is due to the way the score is calculated.
+  ! [equation] (https://latex.codecogs.com/png.image?\dpi{110}95.9\times\frac{(Tmax/Tyour)-1}{(Tmax/Tmin)-1}&plus;4.5)
