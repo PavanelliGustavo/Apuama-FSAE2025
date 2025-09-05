@@ -35,4 +35,4 @@ The competition consists of static and dynamic events, with the dynamic events o
 | Efficiency  | 41.5 |
 
   This is due to the way the score is calculated.
-  ! [equation] (https://latex.codecogs.com/png.image?\dpi{110}95.9\times\frac{(Tmax/Tyour)-1}{(Tmax/Tmin)-1}&plus;4.5)
+  ! [equation](https://latex.codecogs.com/png.image?\dpi{110}95.9\times\frac{(Tmax/Tyour)-1}{(Tmax/Tmin)-1}&plus;4.5)
