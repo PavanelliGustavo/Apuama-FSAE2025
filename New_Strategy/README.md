@@ -24,7 +24,7 @@ The competition consists of static and dynamic events, with the dynamic events o
 
   Knowing the score for each event and that we need to accumulate as many points as possible, the simplest line of reasoning, and also the one currently adopted, would be to participate first in the stages with the highest added value. Of course, other factors affect this decision, such as the waiting time in line to take the test, but what the history of the last four years shows is that there is a preference for tests with higher scores.
 
-  But I noticed something looking at the results of Formula SAE 2025: despite having a higher maximum score, several teams do not even come close to this result, which leads us to reflect: could it be easier to achieve a certain score in a race, even if it has a shorter interval than others? In the next table I calculated de mean pontuation in each test, considering only the teams that earned points, and, as we can see, it is right: accelaration have a mean higher than autocross! (I allready haven't say it yet, but acceleration it's faster to complete tha autocross)
+  But I noticed something when analyzing the results of Formula SAE 2025: despite having a higher maximum score, several teams do not even come close to this result, which leads us to reflect: would it be easier to achieve a certain score in one stage, even if it has a shorter point range than others? In the table below, I calculated the average score in each test, considering only the teams that earned points, and, as we can see, it's true: acceleration has a higher average than autocross! (I haven't said this yet, but acceleration is faster to complete than autocross).
 
 | Category    | Mean |
 |-------------|------|
@@ -40,8 +40,13 @@ The competition consists of static and dynamic events, with the dynamic events o
 
   <img width="255" height="44" alt="CodeCogsEqn(1) - Editado" src="https://github.com/user-attachments/assets/8b5299d1-5842-419e-b042-aff2ade341e6" />
 
-
-
 - When Tyour > Tmax , Acceleration Score = 4.5
-   
 
+Autocross have a similant way to calculate the score:   
+
+- Tmax - 145% of Tmin
+- When Tyour < Tmax, the team Score =
+
+<img width="263" height="44" alt="CodeCogsEqn(2) - Editado" src="https://github.com/user-attachments/assets/6a466613-b31c-4751-9c3a-bce7e3c67348" />
+
+- When Tyour > Tmax , Autocross Score = 6.5
